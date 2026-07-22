@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Senior Software Engineer experienced in building scalable web applications across fintech, e-commerce, HR, automotive, and med-tech domains. Focused on delivering end-to-end product features across frontend, backend, database, authentication, and production-readiness layers. Experienced in code quality, technical feasibility, mentoring, and AI-assisted engineering workflows.
+
 <p align="left">
   <img src="https://api.boot.dev/v1/users/public/f24e1b26-90a3-4fe3-8071-b114c66bb656/thumbnail" >
 </p>
